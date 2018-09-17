@@ -1,13 +1,13 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/12931973",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/12931973/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/12931973/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/tag/jdk9u-2018-09-17-10-42",
-  "id": 12931973,
-  "node_id": "MDc6UmVsZWFzZTEyOTMxOTcz",
-  "tag_name": "jdk9u-2018-09-17-10-42",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/12933314",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/12933314/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/12933314/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/tag/jdk9u-2018-09-17-12-02",
+  "id": 12933314,
+  "node_id": "MDc6UmVsZWFzZTEyOTMzMzE0",
+  "tag_name": "jdk9u-2018-09-17-12-02",
   "target_commitish": "master",
-  "name": "jdk9u-2018-09-17-10-42",
+  "name": "jdk9u-2018-09-17-12-02",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -30,14 +30,14 @@
     "site_admin": false
   },
   "prerelease": true,
-  "created_at": "2018-09-17T08:58:29Z",
-  "published_at": "2018-09-17T10:42:18Z",
+  "created_at": "2018-09-17T10:42:36Z",
+  "published_at": "2018-09-17T12:02:49Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/assets/8705804",
-      "id": 8705804,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDg3MDU4MDQ=",
-      "name": "OpenJDK9U-jre_x64_mac_hotspot_2018-09-17-10-42.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/assets/8706903",
+      "id": 8706903,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDg3MDY5MDM=",
+      "name": "OpenJDK9U-jre_x64_mac_hotspot_2018-09-17-12-02.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -61,17 +61,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 35800571,
+      "size": 35800501,
       "download_count": 0,
-      "created_at": "2018-09-17T10:42:18Z",
-      "updated_at": "2018-09-17T10:42:21Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-17-10-42/OpenJDK9U-jre_x64_mac_hotspot_2018-09-17-10-42.tar.gz"
+      "created_at": "2018-09-17T12:02:50Z",
+      "updated_at": "2018-09-17T12:02:52Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-17-12-02/OpenJDK9U-jre_x64_mac_hotspot_2018-09-17-12-02.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/assets/8705805",
-      "id": 8705805,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDg3MDU4MDU=",
-      "name": "OpenJDK9U-jre_x64_mac_hotspot_2018-09-17-10-42.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/assets/8706904",
+      "id": 8706904,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDg3MDY5MDQ=",
+      "name": "OpenJDK9U-jre_x64_mac_hotspot_2018-09-17-12-02.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -97,15 +97,15 @@
       "state": "uploaded",
       "size": 120,
       "download_count": 0,
-      "created_at": "2018-09-17T10:42:21Z",
-      "updated_at": "2018-09-17T10:42:21Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-17-10-42/OpenJDK9U-jre_x64_mac_hotspot_2018-09-17-10-42.tar.gz.sha256.txt"
+      "created_at": "2018-09-17T12:02:52Z",
+      "updated_at": "2018-09-17T12:02:53Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-17-12-02/OpenJDK9U-jre_x64_mac_hotspot_2018-09-17-12-02.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/assets/8705807",
-      "id": 8705807,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDg3MDU4MDc=",
-      "name": "OpenJDK9U_x64_mac_hotspot_2018-09-17-10-42.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/assets/8706905",
+      "id": 8706905,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDg3MDY5MDU=",
+      "name": "OpenJDK9U_x64_mac_hotspot_2018-09-17-12-02.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -129,17 +129,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 189590530,
+      "size": 189590220,
       "download_count": 0,
-      "created_at": "2018-09-17T10:42:22Z",
-      "updated_at": "2018-09-17T10:42:32Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-17-10-42/OpenJDK9U_x64_mac_hotspot_2018-09-17-10-42.tar.gz"
+      "created_at": "2018-09-17T12:02:53Z",
+      "updated_at": "2018-09-17T12:03:02Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-17-12-02/OpenJDK9U_x64_mac_hotspot_2018-09-17-12-02.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/assets/8705808",
-      "id": 8705808,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDg3MDU4MDg=",
-      "name": "OpenJDK9U_x64_mac_hotspot_2018-09-17-10-42.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/releases/assets/8706906",
+      "id": 8706906,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDg3MDY5MDY=",
+      "name": "OpenJDK9U_x64_mac_hotspot_2018-09-17-12-02.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -165,12 +165,12 @@
       "state": "uploaded",
       "size": 116,
       "download_count": 0,
-      "created_at": "2018-09-17T10:42:33Z",
-      "updated_at": "2018-09-17T10:42:33Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-17-10-42/OpenJDK9U_x64_mac_hotspot_2018-09-17-10-42.tar.gz.sha256.txt"
+      "created_at": "2018-09-17T12:03:03Z",
+      "updated_at": "2018-09-17T12:03:03Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-17-12-02/OpenJDK9U_x64_mac_hotspot_2018-09-17-12-02.tar.gz.sha256.txt"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/tarball/jdk9u-2018-09-17-10-42",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/zipball/jdk9u-2018-09-17-10-42",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/tarball/jdk9u-2018-09-17-12-02",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-binaries/zipball/jdk9u-2018-09-17-12-02",
   "body": "Nightly Build of jdk9u"
 }
