@@ -470,7 +470,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 41551139,
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2018-09-30T13:11:22Z",
       "updated_at": "2018-09-30T13:11:25Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-30-13-10/OpenJDK9U-jre_x64_linux_hotspot_2018-09-30-13-10.tar.gz"
@@ -538,7 +538,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 43672053,
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2018-09-30T13:11:26Z",
       "updated_at": "2018-09-30T13:11:29Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-30-13-10/OpenJDK9U-jre_x64_linux_openj9_2018-09-30-13-10.tar.gz"
