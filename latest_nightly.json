@@ -1388,7 +1388,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 125,
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2018-09-30T13:13:36Z",
       "updated_at": "2018-09-30T13:13:36Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-30-13-10/OpenJDK9U_x64_linux_openj9_linuxXL_2018-09-30-13-10.tar.gz.sha256.txt"
