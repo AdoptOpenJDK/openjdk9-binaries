@@ -742,7 +742,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 190766974,
-      "download_count": 230,
+      "download_count": 231,
       "created_at": "2018-09-30T13:10:47Z",
       "updated_at": "2018-09-30T13:10:58Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-30-13-10/OpenJDK9U_aarch64_linux_hotspot_2018-09-30-13-10.tar.gz"
